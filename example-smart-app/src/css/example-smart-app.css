@@ -60,26 +60,26 @@ body {
 /* The navigation bar */
 .navbar {
   overflow: hidden;
-  background-color: #ffffffff;
-  position: fixed; /* Set the navbar to fixed position */
-  top: 0; /* Position the navbar at the top of the page */
-  width: 100%; /* Full width */
+  background-color: white;
 }
 
-/* Links inside the navbar */
 .navbar a {
   float: left;
-  display: block;
-  color: white;
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-size: 17px;
 }
 
-/* Change background on mouse-over */
 .navbar a:hover {
-  background: green;
+  background-color: #ddd;
   color: black;
+}
+
+.navbar a.active {
+  background-color: #3d85c6ff;
+  color: white;
 }
 
 .center {
