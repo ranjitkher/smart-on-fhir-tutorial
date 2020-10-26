@@ -78,4 +78,11 @@ body {
   background: #3d85c6ff;
   color: black;
 }
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 /* TBD End css for naviation bars */
