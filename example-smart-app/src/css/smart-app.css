@@ -89,10 +89,12 @@ body {
   width: 50%;
 }
 
+<style>
 div {
   background-image:url('./src/images/LinusLogo.JPG');
   background-repeat:no-repeat;
   background-position:right top;
 }
+</style>
 
 /* TBD End css for naviation bars */
