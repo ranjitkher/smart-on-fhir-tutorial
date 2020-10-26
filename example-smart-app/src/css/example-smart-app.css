@@ -5,6 +5,9 @@ th, td {
 
 body {
   margin: 0;
+  color: blue;
+  font-size: 15px;
+  font-family: Arial;
 }
 
 #holder {
