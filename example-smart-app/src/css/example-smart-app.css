@@ -70,7 +70,7 @@ body {
 .navbar a {
   float: left;
   display: block;
-  color: #3d85c6ff;
+  color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -78,7 +78,7 @@ body {
 
 /* Change background on mouse-over */
 .navbar a:hover {
-  background: #3d85c6ff;
+  background: green;
   color: black;
 }
 
