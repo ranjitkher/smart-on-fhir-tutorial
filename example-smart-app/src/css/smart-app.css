@@ -8,6 +8,10 @@ body {
   color: black;
   font-size: 15px;
   font-family: Verdana;
+  background-image: url('./src/images/LinusLogo.JPG');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right top; 
 }
 
 #holder {
